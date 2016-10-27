@@ -11,5 +11,6 @@ package ramas_contornos;
  */
 public class Exp {
     int mostrar= 15;
+    int ocultar= 16;
     
 }
